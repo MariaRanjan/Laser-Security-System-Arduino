@@ -69,7 +69,4 @@ This project implements a simple and effective **laser-based security system** u
 ## 👨‍💻 Author
 Developed as an Arduino mini project for academic and learning purposes.
 
----
 
-## 📜 License
-This project is open-source and available under the MIT License.
