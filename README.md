@@ -63,10 +63,14 @@ This project implements a simple and effective **laser-based security system** u
 - Adjust the potentiometer on the LDR module for proper sensitivity.
 - LCD is refreshed fully on every state change to avoid ghost characters.
 - Button uses `INPUT_PULLUP` configuration.
+  
 
 ---
 
-## 👨‍💻 Author
-Developed as an Arduino mini project for academic and learning purposes.
+## 🚀 Future Improvements
+Possible enhancements and extensions are listed in `FUTURE_UPGRADES.md`.
+
+
+
 
 
